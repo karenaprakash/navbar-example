@@ -12,8 +12,6 @@ import Services from './Components/Services/services';
 import Products from './Components/Products/products';
 import Portfolio from './Components/Portfolio/Portfolio';
 import Clientele from './Components/Clientele/Clientele';
-
-
 import Home from './Components/Home/home';
 import FourOFour from './Components/FourOFour/fourofour';
 
